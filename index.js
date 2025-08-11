@@ -19,7 +19,7 @@ const SOURCES = {
 
 const manifest = {
   id: "dev.imdb.popular",
-  version: "1.3.0",
+  version: "1.3.3",
   name: "IMDb Popular + Top 250 (Unofficial)",
   description:
     "IMDb 'Most Popular' & 'Top 250' Movies/TV as Stremio catalogs. Uses Cinemeta; OMDb fallback injects titles/posters.",
